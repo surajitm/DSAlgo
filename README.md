@@ -17,6 +17,11 @@
  * Geometrical and Network flow diagram
  
 
- # Problem solving topic wise
+ # Problem solving topic wise:
+ 
    ## Array
+   * Find a pair with given sum- O(nlogn),O(n)/2SUM
+   
+   
+   
       
