@@ -20,7 +20,9 @@
  # Problem solving topic wise:
  
    ## Array
-   * Find a pair with given sum- O(nlogn),O(n)/2SUM
+   * Find a pair with given sum- O(nlogn),O(n)/2SUM,3SUM,4SUM,3SUM closest
+   * Minimum size sub array sum and maximum size sub array sum.
+   *
    
    
    
