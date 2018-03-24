@@ -8,6 +8,7 @@
  * Sorting and Searching
  * String Algorithm
  * recursion and backtraking
+ * Dynamic Programming
  * Devide and Conquer algo
  * Greedy algo
  * Bianry Exponention
