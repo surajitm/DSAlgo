@@ -16,6 +16,15 @@
  * NUmber Theory and Math(Probability,Permutation,Combination)
  * Geometrical and Network flow diagram
  
+# Usefull sources:
+   * [Problem classification](https://www.programcreek.com/2013/08/leetcode-problem-classification/)
+   * [Interview Popular Problem](https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
+   
+# Practice :
+   * [Hackerrank](https://www.hackerrank.com/)
+   * [interviewbit](https://www.interviewbit.com)
+ 
+ 
 
  # Problem solving topic wise:
  
