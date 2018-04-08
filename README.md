@@ -18,6 +18,7 @@
  
 # Usefull sources:
    * [Video lecture](https://www.youtube.com/user/tusharroy2525/playlists?view=1&shelf_id=0&sort=dd)
+   * [Video lecture on dynamic programming](https://www.youtube.com/watch?v=U4yPae3GEO0&list=PLamzFoFxwoNjtJZoNNAlYQ_Ixmm2s-CGX)
    * [Problem classification](https://www.programcreek.com/2013/08/leetcode-problem-classification/)
    * [Interview Popular Problem](https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
    
