@@ -25,36 +25,36 @@
  # Problem solving topic wise:
  
    ## Array & String & Bit
-      * [Array & String](https://github.com/surajitm/dsAlgo/wiki/Arrays-and-String)
-      * [BIT](https://github.com/surajitm/dsAlgo/wiki/Bit-Algo)
-      * [MATH](https://github.com/surajitm/dsAlgo/wiki/Math)
+   * [Array & String](https://github.com/surajitm/dsAlgo/wiki/Arrays-and-String)
+   * [BIT](https://github.com/surajitm/dsAlgo/wiki/Bit-Algo)
+   * [MATH](https://github.com/surajitm/dsAlgo/wiki/Math)
       
    ## LinkedList & Stack & Ques
-      * [LinkedList](https://github.com/surajitm/dsAlgo/wiki/LinkedList)
-      * [Stack & Que](https://github.com/surajitm/dsAlgo/wiki/Stack-and-Queue)
-      * [Tree](https://github.com/surajitm/dsAlgo/wiki/Tree)
+   * [LinkedList](https://github.com/surajitm/dsAlgo/wiki/LinkedList)
+   * [Stack & Que](https://github.com/surajitm/dsAlgo/wiki/Stack-and-Queue)
+   * [Tree](https://github.com/surajitm/dsAlgo/wiki/Tree)
       
   ## BackTracking & Hashing
-      * [Recursing & BackTracking](https://github.com/surajitm/dsAlgo/wiki/Recursion-and-BackTracking)
-      * [Hashing](https://github.com/surajitm/dsAlgo/wiki/Hashing)
+   * [Recursing & BackTracking](https://github.com/surajitm/dsAlgo/wiki/Recursion-and-BackTracking)
+   * [Hashing](https://github.com/surajitm/dsAlgo/wiki/Hashing)
       
  ## Heaps & hashing & Maps 
-      * [heap](https://github.com/surajitm/dsAlgo/wiki/Heap)
-      * [hashing](https://github.com/surajitm/dsAlgo/wiki/Hashing)
+   * [heap](https://github.com/surajitm/dsAlgo/wiki/Heap)
+   * [hashing](https://github.com/surajitm/dsAlgo/wiki/Hashing)
       
  ## Binary Tree,BST,Segment Tree,Balanced Tree:
-     * [Tree](https://github.com/surajitm/dsAlgo/wiki/Tree)
+   * [Tree](https://github.com/surajitm/dsAlgo/wiki/Tree)
  
  ## Dynamic Programming & Greedy & String Algo:
-      * [String Algo](https://github.com/surajitm/dsAlgo/wiki/String-Algo)
-      * [Greedy](https://github.com/surajitm/dsAlgo/wiki/Greedy-Algo)
-      * [Dynamic Programming](https://github.com/surajitm/dsAlgo/wiki/Dynamic-Programming)
+   * [String Algo](https://github.com/surajitm/dsAlgo/wiki/String-Algo)
+   * [Greedy](https://github.com/surajitm/dsAlgo/wiki/Greedy-Algo)
+   * [Dynamic Programming](https://github.com/surajitm/dsAlgo/wiki/Dynamic-Programming)
       
  ## Graph Algo:
-      * [Graph](https://github.com/surajitm/dsAlgo/wiki/Graph-Algo)
+   * [Graph](https://github.com/surajitm/dsAlgo/wiki/Graph-Algo)
       
  ## MATRIX:     
-      * [MATRIX](https://github.com/surajitm/dsAlgo/wiki/Matrix)
+   * [MATRIX](https://github.com/surajitm/dsAlgo/wiki/Matrix)
       
 # DS & Algo to prepare:
 
