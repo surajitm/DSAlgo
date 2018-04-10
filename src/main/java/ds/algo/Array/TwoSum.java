@@ -1,49 +1,57 @@
 package ds.algo.Array;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 
 public class TwoSum {
-	//BruteForce - O(n^2)
-	public static void getIndexOf2Sum(final int A[],int target){
-		int len=A.length-1;
-		for(int i=0;i<len-1;i++){
-			for(int j=1;j<len;j++){
-				if((A[i]+A[j])==target){
-					System.out.println("Index 1:"+i+","+"Index 2:"+j);
-					
+
+	public static ArrayList<Integer>  getPairSum(int[] arr,int target){
+		//Use #BruteForce
+		//Complexity-O(n^2)
+        ArrayList<Integer> nlist=new ArrayList<>();
+		int len=arr.length;
+		for(int i=0;i<len;i++){
+			for(int j=i+1;j<len;j++){
+				if(arr[i]+arr[j]==target){
+					nlist.add(arr[i]);
+					nlist.add(arr[j]);
+					break;
 				}
-				
 			}
 		}
+		return nlist;
+	}
+ //Let's reduce the complexity
+ //Complexity - O(logn)	
+	public static ArrayList<Integer> getPairSumImp(int[] arr,int target){
+		ArrayList<Integer> nlist=new ArrayList<>();
+		int len=arr.length;
+		int l=0;
+		int r=len-1;
+		//Sort the array->applying binary search
+		Arrays.sort(arr);
+		while(l<=r){
+			int sum=arr[l]+arr[r];
+			if(sum==target){
+				nlist.add(arr[l]);
+				nlist.add(arr[r]);
+				break;
+			}else if(sum<target){
+				l++;
+			}else{
+				r--;
+			}
+		}
+		return nlist;
 	}
 	
-	//complexity -
-	public static void getIndexOf2Sum1(int A[],int target){
-		int low=0;
-		int high=A.length-1;
-		int sum;
-		if(A==null || A.length==0){
-			return;
-		}else{
-		  Arrays.sort(A);
-		}
-		while(low<high){
-			sum=A[low]+A[high];
-			if(sum==target){
-				System.out.println("Pair found");
-				System.out.println("Index1:"+low+",Index:"+high);
-				return;
-			}else if(sum<target){
-				low++;
-			}else{
-				high--;
-			}
-		}
-	}
+	
 	
 	public static void main(String[] args) {
-		int A[]={2,7,4,5,3,8};
-		getIndexOf2Sum(A, 9);
+		System.out.println(getPairSum(new int[]{1, 4, 45, 6, 10, -8},16));
+		System.out.println(getPairSumImp(new int[]{1, 4, 45, 6, 10, -8},16));
+		
 	}
+	
 	
 }
